@@ -4,7 +4,7 @@
 import cv2 as cv
 import numpy as np
 #*****************************************************************************
-img = cv.imread("/home/takion/Documentos/Pixel/clin2.PNG")
+img = cv.imread("/endereço/imagem/imagem.extensao")
 img = np.copy(img)
 # ****************************************************************************
 
