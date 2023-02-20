@@ -10,7 +10,7 @@ sG = 0
 sB = 0
 n = 1
 #*****************************************************************************
-img = cv.imread("/home/takion/Documentos/Pixel/clin2.PNG")
+img = cv.imread("/endereço/imagem/imagem.extençao")
 img = np.copy(img)
 # ****************************************************************************
 def Retangulo(img):
